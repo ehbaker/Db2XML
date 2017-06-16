@@ -1,0 +1,227 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin></origin>
+        <pubdate></pubdate>
+        <title/>
+        <geoform>
+
+        </geoform>
+        <pubinfo>
+          <pubplace>Anchorage, AK</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/xxxxxxxx</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin></origin>
+            <pubdate></pubdate>
+            <title>
+
+            </title>
+            <geoform>
+
+            </geoform>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>
+
+      </abstract>
+      <purpose>
+
+      </purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate></begdate>
+          <enddate></enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>
+
+      </progress>
+      <update>
+
+      </update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>
+
+        </westbc>
+        <eastbc>
+
+        </eastbc>
+        <northbc>
+
+        </northbc>
+        <southbc>
+
+        </southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>geophysics</themekey>
+        <themekey>Glaciology</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA Earth Science Thesaurus</themekt>
+        <themekey>Cryosphere</themekey>
+        <themekey>Glaciers/Ice Sheets</themekey>
+        <themekey>Glaciers</themekey>
+        <themekey>Ablation Zones/Accumulation Zones</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS CSA Biocomplexity Thesaurus</themekt>
+        <themekey>Glaciology</themekey>
+        <themekey>Geomorphology</themekey>
+        <themekey>Geology</themekey>
+        <themekey>Remote Sensing</themekey>
+      </theme>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>Please cite U.S. Geological Survey/listed authors and give credit for the data. When appropriate, please consider co-authorship with the owners of the database. These data are the result of efforts by many of government and non-government participants in the field, including USGS and various researchers and managers. All publications based on these data should acknowledge all of these efforts. If a publication is based solely on the analysis of this data, we suggest that you involve the authors of this data with the writing and/or review of the manuscript. We would also appreciate receiving a reprint or copy of any publications or reports that make use of the data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing</addrtype>
+          <address>4210 University Dr.</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508-4626</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(907) 786-7000</cntvoice>
+        <cntfax>(907) 786 - 7020</cntfax>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>University of Alaska Fairbanks, Alaska Division of Geological and Geophysical Surveys</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>We did not conduct any formal attribute accuracy tests. The user must assess these attributes on a case-by-case basis.</attraccr>
+    </attracc>
+    <logic>
+
+    </logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. We include all of the collected data even though some of the data may not be interpretable depending on intended use.</complete>
+    <posacc/>
+    <lineage>
+      <procstep>
+        <procdesc></procdesc>
+        <srcused></srcused>
+        <procdate></procdate>
+        <srcprod></srcprod>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct></direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>
+
+        </sdtstype>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres></latres>
+        <longres>0</longres>
+        <geogunit>
+
+        </geogunit>
+      </geograph>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl></enttypl>
+        <enttypd></enttypd>
+        <enttypds></enttypds>
+      </enttyp>
+    </detailed>
+    <overview>
+      <eaover></eaover>
+      <eadetcit></eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Dr.</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508-4626</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(907) 786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>
+
+                </networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd></metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Dr.</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508-4626</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(907) 786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC CSDGM</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
