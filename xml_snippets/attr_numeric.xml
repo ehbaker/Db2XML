@@ -1,0 +1,13 @@
+<attr>
+<attrlabl></attrlabl>
+<attrdef></attrdef>
+<attrdefs></attrdefs>
+<attrdomv>
+  <rdom>
+	<rdommin></rdommin>
+	<rdommax></rdommax>
+	<attrunit></attrunit>
+	<attrmres></attrmres>
+  </rdom>
+</attrdomv>
+</attr>
